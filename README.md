@@ -1,5 +1,5 @@
 # Ecommerce-Sales-Dashboard-Excel
-"Interactive Excel dashboard analyzing e-commerce sales, profit and orders"
+Interactive Excel dashboard analyzing e-commerce sales, profit and orders
 ## Tools Used
 Excel (Pivot Tables, Charts, Slicers)
 
