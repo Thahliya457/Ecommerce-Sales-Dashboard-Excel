@@ -18,3 +18,5 @@ Excel (Pivot Tables, Charts, Slicers)
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+
+Portfolio: https://thahliya-portfolio.lovable.app
